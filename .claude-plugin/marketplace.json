@@ -1,0 +1,16 @@
+{
+  "name": "mods-manager",
+  "owner": {
+    "name": "Chiara Costa"
+  },
+  "metadata": {
+    "description": "Painel para ver, ligar, desligar, instalar e agrupar em perfis os seus mods e plugins."
+  },
+  "plugins": [
+    {
+      "name": "mods-manager",
+      "source": "./",
+      "description": "Painel para ver, ligar, desligar, instalar e agrupar em perfis os seus mods e plugins."
+    }
+  ]
+}

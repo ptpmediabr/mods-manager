@@ -1,0 +1,4 @@
+.DS_Store
+node_modules/
+# Tipos para o editor, gerados pelo Claude Code quando ele carrega o mod.
+.claude-plugin/types/
